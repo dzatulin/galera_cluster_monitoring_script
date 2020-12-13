@@ -22,7 +22,7 @@ WSREP Method:  xtrabackup-v2
 WSREP Ready:  ON
 WSREP Connected:  ON
 Node Name:  mrdb1
-Node IP address:  10.136.53.245
+Node IP address:  10.1.1.100
 =====Replication Health======
 Local recv queue avg:  0.111134
 Local send queue avg:  0.006453
