@@ -1,6 +1,6 @@
-#galera_cluster_monitoring_script
+# galera_cluster_monitoring_script
 
-###This script is needed to simplify the monitoring of the Galera Cluster
+### This script is needed to simplify the monitoring of the Galera Cluster
 
     > chmod +x galera_info.sh
     > ./galera_info.sh
